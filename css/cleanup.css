@@ -1,8 +1,8 @@
 #wall .tag-1 {
   display: none;
 }
-/* Tag 2 -> 200 */
-body #wall #tag-2 { /* 201 */
+
+body #wall #tag-2 {
   display: none;
 }
 
